@@ -1,0 +1,58 @@
+nav {
+  height: 50px;
+  background-color: lightgrey;
+}
+.inline-block {
+  padding: 15px;
+  display: inline-block;
+  width: 15%;
+  background-color: beige;
+  text-align: center;
+}
+.left {
+  float: left;
+  height: 500px;
+  background-color: lightblue;
+  width: 30%;
+  text-align: center;
+}
+.right {
+  float: left;
+  background-color: lightgreen;
+  height: 500px;
+  width: 70%;
+  text-align: center;
+  
+}
+h1 {
+  font-family: helvetica, arial, sans-serif;
+ }
+ .separator {
+   width: 750px;
+ }
+ .left {
+   float: left;
+   padding-right: 15px;
+ }
+ .right {
+   float: right;
+   padding-left: 15px;
+   margin: -500px 0;
+ }
+
+
+.card {
+  display: inline-block;
+  background-color: #C6C6C6;
+  border-radius: 5px;
+  height: 200px;
+  width: 150px;
+  margin: 35px;
+  margin-top: 50px;
+}
+  .top {
+    display: inline-block;
+    background-color: blanchedalmond;
+    width: 100%;
+    Height:35%;
+  }
